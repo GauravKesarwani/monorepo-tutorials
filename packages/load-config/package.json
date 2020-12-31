@@ -1,0 +1,11 @@
+{
+  "name": "load-config",
+  "version": "1.0.0",
+  "description": "Loads the config file using cosmiconfig libary",
+  "main": "index.js",
+  "author": "Gaurav Kesarwani",
+  "license": "MIT",
+  "dependencies": {
+    "cosmiconfig": "^7.0.0"
+  }
+}

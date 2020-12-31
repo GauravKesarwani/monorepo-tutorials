@@ -1,0 +1,8 @@
+{
+  "name": "@monorepo-tutorials/build",
+  "version": "1.0.0",
+  "description": "Build Plugin for cli monorepo",
+  "main": "index.js",
+  "author": "GauravKesarwani",
+  "license": "MIT"
+}

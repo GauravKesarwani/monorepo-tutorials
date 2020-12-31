@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo-tutorials/core",
+  "version": "1.0.0",
+  "description": "The core structure of design systems cli",
+  "main": "index.js",
+  "author": "Gaurav Kesarwani",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@monorepo-tutorials/plugin": "link:../plugin"
+  }
+}

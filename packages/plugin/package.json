@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo-tutorials/plugin",
+  "version": "1.0.0",
+  "description": "Plugin structure for sample cli",
+  "main": "index.js",
+  "author": "Gaurav Kesarwani",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "utility-types": "^3.10.0"
+  }
+}

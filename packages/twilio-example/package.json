@@ -1,0 +1,23 @@
+{
+  "name": "twilio-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-project": "./binDir/bin-exec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.1",
+    "commander": "^6.2.1",
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3"
+  }
+}

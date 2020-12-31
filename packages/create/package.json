@@ -1,0 +1,28 @@
+{
+  "name": "@monorepo-tutorials/create",
+  "version": "1.0.0",
+  "description": "Initialize a monorepo cli",
+  "main": "index.js",
+  "author": "Gaurav Kesarwani",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.16",
+    "@types/title-case": "^1.1.2",
+    "command-line-application": "0.10.1",
+    "copy-template-dir": "^1.4.0",
+    "degit": "^2.8.0",
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "ts-loader": "^8.0.12",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/degit": "^2.8.0",
+    "@types/fs-extra": "^9.0.6",
+    "@types/inquirer": "^7.3.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@monorepo-tutorials/cli",
+  "version": "1.0.0",
+  "description": "Sample cli ",
+  "main": "index.js",
+  "author": "GauravKesarwani",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build",
+    "start": "yarn build --watch"
+  },
+  "dependencies": {
+    "@monorepo-tutorials/core": "link:../core"
+  }
+}

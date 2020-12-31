@@ -1,0 +1,12 @@
+{
+  "name": "@monorepo-tutorials/clean",
+  "version": "1.0.0",
+  "description": "Clean command for the cli",
+  "main": "index.js",
+  "author": "GauravKesarwani",
+  "license": "MIT",
+  "dependencies": {
+    "@monorepo-tutorials/plugin": "link:../../packages/plugin",
+    "fs-extra": "^9.0.1"
+  }
+}

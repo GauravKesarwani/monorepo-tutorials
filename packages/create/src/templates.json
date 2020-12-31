@@ -1,0 +1,16 @@
+{
+  "system": [
+    {
+      "name": "ts",
+      "url": "https://github.com/design-systems-templates/monorepo-template",
+      "description": "A TypeScript monorepo",
+      "sha": "a5f39ffd6808e023ff90a1d30ae1910f0ae40ab8"
+    },
+    {
+      "name": "js",
+      "url": "https://github.com/design-systems-templates/monorepo-template",
+      "description": "A JavaScript monorepo",
+      "sha": "4d1ddc40f77aa3fdc1f9e007e6220bcf268f4b3d"
+    }
+  ]
+}
