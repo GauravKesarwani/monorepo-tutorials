@@ -12,7 +12,7 @@
     "copy-template-dir": "^1.4.0",
     "degit": "^2.8.0",
     "fs-extra": "^9.0.1",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.0.0",
     "ts-loader": "^8.0.12",
     "webpack": "^5.11.1",
     "webpack-cli": "^4.2.0"
