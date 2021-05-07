@@ -1606,10 +1606,10 @@
   resolved "https://registry.yarnpkg.com/@types/command-line-usage/-/command-line-usage-5.0.1.tgz#99424950da567ba67b6b65caee57ff03c4e751ec"
   integrity sha512-/xUgezxxYePeXhg5S04hUjxG9JZi+rJTs1+4NwpYPfSaS7BeDa6tVJkH6lN9Cb6rl8d24Fi2uX0s0Ngg2JT6gg==
 
-"@types/degit@2.8.0":
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/@types/degit/-/degit-2.8.0.tgz#8183d51e756b62aa4ecf017402203c77fa8b96d2"
-  integrity sha512-ItZRzGAgbxxWCphgo4GAYi5onWtEnuJzODX8xvTAYPVLAoQe+CjxfEMr1N7G27wCVFma6K0iKTfxRQ2N2A/Mjw==
+"@types/degit@2.8.2":
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/@types/degit/-/degit-2.8.2.tgz#a5878ecf8914c1408b31f2efda284add6e7ea7ce"
+  integrity sha512-wUOqW7nZ8AYgm4OKa9i/RD72CrU/X4Vfx2Oez/51qC3RMgPyF3ZUQVLFjV8McV6/ivR7lOlfidRFgGZj7MZe1A==
 
 "@types/eslint-scope@^3.7.0":
   version "3.7.0"
